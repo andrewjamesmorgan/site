@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Windsor Solicitors - Allwyn Sanger</title>
+    <style type="text/css">
+    v\:* {
+      behavior:url(#default#VML);
+    }
+    </style>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAsc-TV1FOAHt-MVBlx_MpJxTHABkcnBPjrddmFt3WYsNBEN2OCBQiVlBN4XEcXk9MU_KVjYp2KZ6hKQ"
+            type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+     function load() {
+     if (GBrowserIsCompatible()) {
+	 
+	 // Create a base icon for all of our markers that specifies the
+	 // shadow, icon dimensions, etc.
+
+	 var baseIcon = new GIcon();
+	 baseIcon.shadow = "http://www.google.com/mapfiles/shadow50.png";
+	 baseIcon.iconSize = new GSize(20, 34);
+	 baseIcon.shadowSize = new GSize(37, 34);
+	 baseIcon.iconAnchor = new GPoint(9, 34);
+	 baseIcon.infoWindowAnchor = new GPoint(9, 2);
+	 baseIcon.infoShadowAnchor = new GPoint(18, 25);  
+	 
+	 // Creates a marker whose info window displays the letter corresponding
+	 // to the given index.
+
+	 function createMarker(point, index, Description) {
+	     // Create a lettered icon for this point
+	     var letter = String.fromCharCode("A".charCodeAt(0) + index);
+	     var icon = new GIcon(baseIcon);
+	     icon.image = "http://www.google.com/mapfiles/marker" + letter + ".png";
+	     var marker = new GMarker(point, icon);
+	     
+	     GEvent.addListener(marker, "click", function() {
+				    marker.openInfoWindowHtml(Description);
+				    for (var i = 0; i < numPOI; i++) {map.removeOverlay(routes[i]);}
+				    map.addOverlay(routes[index]);
+				});
+	     // The following line removes the route when the info window associated with the
+	     // marker is closed. It also removes it if an info window for another marker is opened - thus
+	     // obsoleting the code above.
+	     // GEvent.addListener(marker, "infowindowclose", function() {map.removeOverlay(routes[index]);});
+	     return marker;
+	 }
+	 
+	 function addRoute (srcFile, position) {
+	     GDownloadUrl(srcFile, function(data) {
+			      var pnts = [];
+			      var xml = GXml.parse(data);
+			      var destination = xml.documentElement.getElementsByTagName("destin");
+			      
+			      poiMarkers.push(createMarker(new GLatLng(destination[0].getAttribute("lat"), 
+								       destination[0].getAttribute("lng")), 
+							   position,
+							   destination[0].getAttribute("description")));
+			      map.addOverlay(poiMarkers[position]);
+			      
+			      var markers = xml.documentElement.getElementsByTagName("marker");
+			      for (var j = 0; j < markers.length; j++) {
+				  pnts.push(new GLatLng(parseFloat(markers[j].getAttribute("lat")),
+							parseFloat(markers[j].getAttribute("lng"))));
+			      }
+			      routes.push(new GPolyline(pnts));
+			  });
+	 }
+	 
+	 function resizeMap() {
+	     var width, height;
+
+	     // all except Explorer
+	     if (window.innerHeight) {
+		 width = window.innerWidth;
+		 height = window.innerHeight;
+	     }
+	     // Explorer 6 Strict Mode
+	     else {
+		 width = document.documentElement.clientWidth;
+		 height = document.documentElement.clientHeight;
+	     }  
+	     
+	     var headerHeight = document.getElementById("message").offsetHeight;
+
+	     // document.getElementById("message").innerHTML = "Height: " + height + " Width: " + width;
+
+	     height -= headerHeight;
+	     width -= 20;
+	     height -=30;
+	     containerNode.style.width = width + "px";
+	     containerNode.style.height = height + "px";
+	     
+	     map.checkResize();
+	 }
+	 
+	 var containerNode = document.getElementById("map");
+         var map = new GMap2(containerNode,{});
+	 var numPOI = 0;
+	 var poiMarkers = [];
+	 var points = [];
+	 var routes = [];
+	 
+	 map.addControl(new GSmallMapControl());
+	 map.addControl(new GMapTypeControl());
+	 map.setCenter(new GLatLng(51.48535158512941, -0.6076598167419434), 16);
+	 
+         // Map types are G_NORMAL_MAP, G_SATELLITE_MAP, G_HYBRID_MAP and G_DEFAULT_MAP_TYPES
+         map.setMapType(G_HYBRID_MAP);
+
+	 // Allwyn Sanger office marker
+	 map.addOverlay(new GMarker(new GLatLng(51.48535158512941, -0.6076598167419434)));
+
+	 // Add all of the routes
+	 GDownloadUrl("Routes.xml", 
+		      function(data) {
+			  var routesXml = GXml.parse(data);
+			  var routes = routesXml.documentElement.getElementsByTagName("route");
+			  for (var j = 0; j < routes.length; j++) {addRoute(routes[j].getAttribute("src"), j)}
+			  numPOI = routes.length; 
+		      });
+	 window.onresize = resizeMap;
+	 resizeMap();
+     }
+ }
+     
+//]]>
+    </script>
+  </head>
+  <body onload="load()" onunload="GUnload()">
+  <div id="message" style="width: 100%; height: 50px"></div>
+  <div id="map" style="width: 100%; height: 700px"></div>
+
+  </body>
+</html>

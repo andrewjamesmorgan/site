@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+   <title>Windsor Solicitor - Civil Partnership, Prenuptuals, Wills, Divorce, Inheritance, Family Law, Employment Law and Civil Litigation</title>   
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   <meta name="keywords" content="Civil Partnership, Family Solicitor, Windsor, Prenuptuals, Wills, Divorce, Inheritance, prenup, pre nuptial, Employment Law, Berkshire, Ash Sanger" />
+   <meta name="description" content="Windsor Solicitor specialising in Family Law (Pre nuptials, Divorce, Inheritance), Children, Employment Law, Wills & Probate and Civil Litigation."/>
+   <meta name="author" content="Andrew Morgan" />
+   <meta name="robots" content="all" />
+   <meta name="rating" content="General" />
+   <link href="amstyles.css" rel="stylesheet" type="text/css" /></head>
+   <body>
+
+
+  <div id="center"> 
+  	<h2>The Civil  Partnership Act 2004</h2>
+  	<p>The Civil  Partnership Act 2004 came into force on 5 December 2004. It gave couples of the same sex a right  to register themselves as civil partners.&nbsp;  It provides recognition of their commitment to each other and gives rights  and responsibilities in line with married couples. </p>
+  	<p>There have  been a tremendous amount of registered civil partners since the Act came into  force and much higher than the government&rsquo;s initial prediction.&nbsp; </p>
+  	<p>More recent  high profile civil partnerships have been Elton John and Matt Lucas.</p>
+  	<h3>Who can register?</h3>
+  	<ul>
+  	  <li>Two people of the same sex<br /><br /></li>
+  	  <li>Who are not either already a civil  partner or married and<br /><br /></li>
+  	  <li>Who are over 16 (in England and Wales parental consent in necessary  if a civil partner is under 18) and<br /><br /></li>
+  	  <li>Who are not within prohibited  degrees of relationship (child, adoptive child, parent, grandparent, sibling  etc.)</li>
+    </ul>
+  	<h3>Procedure</h3>
+  	<p>There are  different procedures for different circumstances</p>
+  	<p>The standard procedure is the most common procedure that will apply where the following  steps will require to take place:</p>
+  	<ul>
+  	  <li>A notice of the planned partnership  must be given to the registration authority which must contain the names of  both civil partners and the location of the registration.<br /><br /></li>
+  	  <li>The notice must contain a written  declaration that:<br /><br /></li>
+  	  <ul>
+	     <li>There is no impediment to the creation  of a civil partnership and</li>
+         <li>That both parties have lived in England or Wales for at least seven days  before the giving of the notice.<br /><br /></li>
+      </ul>
+  	  <li>A waiting period of 15 days follows,  beginning with the day that the notice is recorded, during which time the  proposed civil partnership must be published by the relevant registration  authority.</li>
+    </ul>
+  	<p>Special  procedure would apply to reflect the diverse situations that may prevent people  from using the main standard procedure, such as obtaining medical certificates.</p>
+  	<h3>The ceremony of the partnership</h3>
+  	<p>Similar to a  marriage, the partnership must take place in the location specified in the  notice and in the presence of each other, the Registrar and two witnesses.&nbsp; Each partner signs the civil partnership  schedule.&nbsp; The witnesses and the Registrar  must also sign this schedule in the partners&rsquo; presence.&nbsp; </p>
+  	<p>It is  important to note that no religious service may take place during the ceremony  of the partnership.</p>
+  	<h3>The legal impact of entering into a civil partnership</h3>
+  	<p>Upon  entering into a civil partnership you acquire rights as well as responsibilities  which are similar to the Matrimonial Causes Act where there is a marriage. As a  consequence, the Civil Partnership Act has had a huge knock-on effect on other  related legislation such as the law relating to:</p>
+  	<ol>
+  	  <li>Children<br /><br /></li>
+  	  <li>The treatment of tax, including Inheritance  Tax Relief on death<br /><br /></li>
+  	  <li>Recognition of overseas registered  civil partnerships<br /><br /></li>
+  	  <li>Pension rights, both relating to  benefits payable to a surviving partner on death and pension sharing on a  breakdown of a relationship<br /><br /></li>
+  	  <li>The death of one partner and  inheritance of the surviving partner as next of kin<br /><br /></li>
+  	  <li>Employment Law and discrimination  rights at work<br /><br /></li>
+  	  <li>Protection from domestic violence</li>
+    </ol>
+  	<h3>Ending the civil partnership</h3>
+  	<p>A registered  civil partnership can be ended only by dissolution, annulment, or death. </p>
+  	<p>Similar to marriages  the partnership can only be dissolved where the partnership has been registered  for at least one year and must be on the basis that it has broken down  irretrievably.&nbsp; </p>
+  	<p>The grounds  for the dissolution are similar to divorce proceedings, i.e. you would need to  particularise that the dissolution is on the basis of either unreasonable  behaviour of the other party or the parties have separated for a period of time  set by the legislation.</p>
+  		  <p><br />&gt; Return to main <a href="Family.jsp">Family Law page</a> </p>
+  	<br />
+<div class="Footer">
+  <span class="Footer"><a href="terms.jsp" target="Allwyn Sanger - Terms & Conditions">terms & conditions</a> | <a href="sitemap.jsp" target="sitemap">site map</a> | Law Society membership | &copy; 2007</span></div>	
+
+   </div>
+  <div id="centerRight"><img src="images/rhs/Civil_Partnership.jpg" alt="Windsor Solicitors Civil Partnership" width="200" height="302" border="0"/></div>
+  
+       <div id="top"> 
+     <p>Gainsborough House<br/>
+     59 - 60 Thames Street<br />
+     Windsor<br />
+     Berkshire<br />
+	 UK<br />
+     SL4 1TX</p>
+   </div>
+   <div id=topRRight>
+   	 <p>Tel: +44-1753-272070 <br />
+	 Fax: +44-870-7347821 <br />	
+	 email: <a href="mailto:enquiries@allwynsanger.com">enquiries@allwynsanger.com</a>     
+   	 <p> 	     <a href="Contact.jsp">Full Contact Details</a>
+   </div>
+   <div id="topRight"><img src="images/sangerlogo_small.jpg" align="left" /></div>
+      
+   
+<div id="left"> 
+ 	<div id="navigation"> 
+	<ul>
+	  <li><a href="http://www.allwynsanger.com">Home</a></li>
+	  <li><span id="this_major"><a href="Family.jsp">Family Law</a></span></li>
+	  
+	  <li>
+	    <ul>
+	      <li><a href="Divorce.jsp">&gt; Divorce</a></li>
+	      <li><a href="Separation.jsp">&gt; Separation</a></li>
+	      <li><a href="Prenuptial.jsp">&gt; Pre Nuptial Agreement</a></li>
+	      <li><a href="Cohabitation.jsp">&gt; Co-Habitation</a></li>
+	      <li><a href="Mediation.jsp">&gt; Mediation</a></li>
+	      <li><span id="this_minor"><a href="CivilPartnership.jsp">&gt; Civil Partnership</a></span></li>
+	      <li><a href="FinancialDivision.jsp">&gt; Financial Division</a></li>
+	    </ul> 
+	  </li>
+      
+	  <li><a href="Children.jsp">Children Matters</a></li>
+	  
+	  <li><a href="Wills.jsp">Wills &amp; Probate</a></li>
+	  
+	  <li><a href="Attorney.jsp">Power of Attorney</a></li>
+          <li><a href="Employment.jsp">Employment Law</a></li>
+          <li><a href="Civil.jsp">Civil Litigation</a></li>
+	  <li><a href="Articles.jsp">Published Articles</a></li>
+	  <li><a href="Enquiry.jsp">Submit Enquiry</a></li>
+	  <li><a href="Contact.jsp">Contact us</a></li>
+	  <li><a href="About.jsp">About Us</a></li>
+	  <li><a href="Links.jsp">External Links</a>
+      </li>
+	</ul>
+   </div>
+   <br /><br /><br />
+   <a href="http://www.resolution.org.uk/" rel="nofollow" target="Resolution - first for family law"><img src="images/resolution_first_for_family_law.jpg" alt="Resolution - first for family law" width="150" height="44" border="0"/></a><br />
+   <br />
+   <a href="http://www.thelawsociety.org.uk" rel="nofollow" target="The Law Society"><img src="images/Law_Society.gif" alt="The Law Society" width="80" height="80" border="0"/></a><br />
+   <br />
+  <a href="http://www.lawsociety.org.uk/professional/accreditationpanels/familylawpanel.law" rel="nofollow" target="The Law Society Family Panel"><img src="images/Law_Society_Family_Law_Panel.jpg" alt="Law Society Family Law Panel"  border="0"/></a>
+    <br />
+</div>
+
+  
+   </body>
+</html>

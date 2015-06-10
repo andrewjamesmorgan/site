@@ -1,0 +1,86 @@
+/* Add here all your CSS customizations */
+
+div.slider-container,
+div.slider {
+	max-height: 400px; /* ZXZX */
+}
+
+img.logo {
+	display: block;
+	max-height: 80px;
+	vertical-align: middle;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+img.big_logo {
+	display: block;
+	max-width: 150px;
+	vertical-align: middle;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+div.social-footer li {
+	list-style-type: none;
+	margin-left: -38px;
+}
+
+div.slider-container div.main-label {
+	color: #FFF; 
+	font-size: 62px;
+	line-height: 62px;
+	font-weight: 800;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+}
+/*
+div.slider-container div.slider-blue {
+	color: #007c98; 
+}
+*/
+
+div.slider-container div.tp-caption.theme-colour {
+	color: #007c98;
+}
+
+div.slider-container div.top-label.theme-colour {
+	color: #007c98;
+}
+
+div.slider-container div.bottom-label.theme-colour {
+	color: #007c98;
+}
+
+img.mug-shot {
+	max-width: 300px;
+}
+
+.gsc-search-button
+{
+    background-color: #007c98;
+    border-radius: 5px;
+
+}
+
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    background-color: #007c98 !important;
+    background-image: url("http://www.google.com/uds/css/v2/search_box_icon.png") !important;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    height: 16px !important;
+    border-color: #007c98 !important;
+    filter: none;
+}
+
+div.gsc-selected-option-container.gsc-inline-block {
+	min-width: 70px;
+}
+
+ul.list-indented, ol.list-indented {
+	padding-left: 20px;
+}
+

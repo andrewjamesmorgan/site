@@ -1,0 +1,497 @@
+#mediaquery {
+	height: 90px;
+	border: 1px solid #e00;
+        background-color: #00a;
+}
+
+h2 {
+	clear: both;
+	color: #0086AC;
+	font-size: large;
+	font-weight: bold;
+}
+h3 {
+	clear: both;
+	color: #0086AC;
+	font-size: large;
+	font-weight: bold;
+}
+
+h4 {
+	clear: both;
+	color: #0086AC;
+	font-weight: bold;
+}
+
+body {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: small;
+	background-color: #FFFFFF;
+	margin-left: 20px;
+}
+em {
+	font-weight: bold;
+	font-style: normal;
+}
+tr.header_row {
+	font-weight: bold;
+	background-color: #0033CC;
+	
+}
+
+img.small {
+	display: none;
+}
+.LargerText {
+	font-size: 1.15em;
+}
+
+.faq_q {
+	clear: both;
+	color: #0086AC;
+	font-size: large;
+	font-weight: bold;
+}
+
+
+#nodecor ul {
+	list-style: none;
+}
+
+#image_and_text {
+	padding-top: 10px;
+	height: 350px;
+}
+#image_left {
+	width: 410px;
+}
+#text_right {
+	position: relative;
+	margin-top: -250px;
+	margin-left: 420px;
+}
+#lots_text_right {
+	position: relative;
+	margin-top: -300px;
+	margin-left: 420px;
+}
+#tall_image_and_text {
+	padding-top: 10px;
+	height: 600px;
+}
+#tall_image_left {
+	width: 410px;
+}
+#tall_text_right {
+	position: relative;
+	margin-top: -400px;
+	margin-left: 420px;
+}
+#very_tall_image_and_text {
+	padding-top: 10px;
+	height: 710px;
+}
+#very_tall_image_left {
+	width: 410px;
+}
+#very_tall_text_right {
+	position: relative;
+	margin-top: -400px;
+	margin-left: 420px;
+}
+#top {
+	color: #000000;
+	width: 80%;
+	position: absolute;
+	height: 150px;
+	float: left;
+	top: 20px;
+	left: 250px;
+}
+#top h1 {
+	margin-left: 20px;
+	margin-top: 10px;
+	color: #0066FF;
+	font-size: medium;
+}
+#left {
+	width: 250px;
+	font-size: small;
+	height: 100%;
+	position: absolute;
+	top: 230px;
+	left: 0px;
+	padding-left: 10px;
+	float: left;
+}
+#widecenter {
+	top: 220px;
+	left: 225px;
+	position: absolute;
+}
+#center {
+	top: 220px;
+	left: 225px;
+	position: absolute;
+	padding-right: 260px;
+}
+
+#center a:link, #center a:visited, #widecenter a:link, #widecenter a:visited {
+	color: #0086AC;
+	text-decoration: none;
+}
+
+#right {
+	position: absolute;
+	right: 20px;
+	top: 160px;
+	width: 0px;
+}
+#navigation {
+	width: 200px;
+}
+#navigation ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#navigation li {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #9999FF;
+}
+#navigation li .mediation a:link, #navigation li .mediation a:visited {
+	text-decoration: none;
+	border-right-width: 0px;
+	color: #7A4AAA; 
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: block;
+}
+
+#navigation li a:link, #navigation li a:visited {
+	text-decoration: none;
+	border-right-width: 0px;
+	color: #0086AC;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: block;
+}
+
+#this_major li a:link, #this_major li a:visited, li #this_major a:link, li #this_major a:visited {
+	font-weight: bold;
+}
+
+#navigation li a:hover {
+	background-color: #0086AC;
+	color: 	#FFFFFF;
+}
+
+
+#navigation li .mediation a:hover {
+	background-color: #7A4AAA; 
+	color: 	#FFFFFF;
+}
+
+#navigation ul ul {
+	margin-left: 18px;
+}
+
+#navigation ul ul li {
+	border-bottom-style: dotted;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+#navigation ul ul a:link, #navigation ul ul a:visited {
+
+} 
+#navigation ul ul #this_minor li a:link, #navigation ul ul #this_minor li a:visited, #navigation ul ul li  #this_minor a:visited, #navigation ul ul li  #this_minor a:link {
+	font-weight: bold;
+} 
+#navigation ul ul a:hover, #navigation ul ul li #this_minor a:hover {
+	background-color: #20a6cc;
+	color: #ffffff;
+}
+.channel-list li {
+	float:left;
+	width: 273px;
+	margin:1px;
+	padding:0px;
+	display: block;
+}
+
+/* Styles for the Availability Year Planner */
+
+table.YearPlanner{
+	background-color: #FAFAD2;
+	color: #212121;
+	border-collapse: collapse;
+	table-layout: fixed;
+	/*border-color: Black;
+	border: 1px; */
+}
+table.YearPlanner caption{
+	font-size: 150%;
+}
+
+td.Day {
+	background-color: #5F9EA0;
+	font-size: 9px;
+	width: 18px;
+	height: 18px;
+	text-align: center;
+	border: 1px solid Black;
+	vertical-align: middle;
+}
+td.Empty {
+	height: 18px;
+	background: #F3EBA3;
+}
+td.Month {
+	background: #F3EBA3;
+	width: 35px;
+	height: 18px;
+	font-size: 9px;
+	font-weight: bold;
+}
+td.Key {
+	background: #F3EBA3;
+	height: 12px;
+	font-size: 	10px;
+        word-wrap: break-word;
+}
+td.Busy {
+	height: 18px;
+	font-size: 9px;
+	text-align: center;
+	border: 1px solid Black;
+	vertical-align: middle;
+	background-color: #FF9066;
+	width: 18px;
+	/*width: 50px;	*/
+}
+td.Available {
+	height: 18px;
+	font-size: 9px;
+	text-align: center;
+	border: 1px solid Black;
+	vertical-align: middle;
+	background-color: #C1F5C1;
+	width: 18px;
+}
+td.Tentative {
+	height: 18px;
+	font-size: 9px;
+	text-align: center;
+	border: 1px solid Black;
+	vertical-align: middle;
+	background-color: #FEFF86;
+	width: 18px;
+}
+.CompleteSpaced {
+	width: 100%;
+	top: 118px;
+	position: absolute;
+	left: 0px;
+	background-color: #9999FF; 
+	padding-right: 20px;
+} 
+
+.spacer {
+	color: #000000;
+}
+
+#top a {
+	text-decoration: none;
+	color: #0086AC;
+	font-weight: bold;
+}
+#topRight {
+	float: left;
+	width: 200px;
+	height: 190px;
+	left: 0px;
+	position: absolute;
+	padding-left: 10px;
+}
+#topRight img {
+	width: auto;
+}
+#topRight img {
+	float: left;
+}
+
+#topRRight {
+	float: right;
+	width: 400px;
+	height: 150px;
+	position: absolute;
+	padding-left: 5px;
+	right: 10px;
+	text-align: right;
+	top: 20px;
+}
+
+#topRRight a:link, #topRRight a:visited {
+	color: #0086AC;
+	text-decoration: none;
+}
+
+
+#centerRight {
+	margin:	0px;
+	color: #0066FF;
+	float: right;
+	width: 300px;
+	top: 250px;
+	position: absolute;
+	right: 5px;
+}
+#centerRight img {
+	border: thin none #400000;
+	float: right;
+	margin-right: 20px;
+	width: 200px;
+}
+
+#centerRight embed {
+	border: thin none #400000;
+	float: right;
+	margin-right: 20px;
+	width: 200px;
+}
+
+#widecenter #indent {
+	text-indent: 20px;
+}
+#widecenter #doubleindent {
+	text-indent: 40px;
+}
+#widecenter .Footer {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999999;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: bottom;
+}
+#widecenter .Footer a, #widecenter .Footer a:visited {
+	color: #999999;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+#center #indent {
+	text-indent: 20px;
+}
+#center #doubleindent {
+	text-indent: 40px;
+}
+#center .Footer {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999999;
+	font-size: .9em;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: bottom;
+}
+#center .Footer a, #center .Footer a:visited {
+	color: #999999;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+.Footer img {
+	background-position: left;
+}
+#widecenter strong {
+	font-weight: bold;
+	color: #0086AC;
+}
+#widecenter li {
+}
+#widecenter strong {
+	font-weight: bold;
+	color: #0086AC;
+}
+#widecenter li {
+}
+
+#MobileOnly { 
+        display: none;
+ }
+
+/********** SOCIAL-LINK UL***************/
+ul.social-links {
+	float:left;
+	margin:0px;
+	padding:0px;
+	padding-bottom:2em;
+/*	font-size:smaller;*/
+}
+ul.social-links li {
+	display:block;
+/*	margin-bottom:0px;*/
+	list-style-type:none;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+ul.social-links li img {
+/*	margin-right:7px; */
+	float:left;
+	padding-right:2px;
+/*	margin-top:0px; 
+	margin-bottom:2px; */
+}
+
+ul.social-links li a:link, ul.social-links li a:visited {
+	text-decoration: none;
+/*	border-right-width: 0px; */
+	color: #0086AC;
+/*	padding-top: 0px;
+	padding-bottom: 2px; 
+	display: block; */
+}
+
+.tweet {
+	width:auto;
+}
+.tweet ul {
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+	float:left;	
+	
+}
+.tweet li,.block .tweet li {
+	margin-bottom:20px;
+}
+.tweet li .tweet_text,.block .tweet li .tweet_text {
+	list-style-type:none;
+	font-style:normal;
+	font-size:12px;
+	
+}
+.tweet a,.block .tweet a {
+	text-transform:none;
+	display:inline;
+	margin:0px;
+	padding:0px;
+	font-style:italic;
+	font-size:12px;
+
+}
+.tweet .tweet_time a,.block .tweet .tweet_time a {
+	text-transform:none;
+	display:block;
+	font-style:italic;
+	font-size:12px;	
+	margin-top: 10px;
+}
+
+#social { 
+   float: right;
+   margin-right: 20px;
+   width: 200px;   
+ }

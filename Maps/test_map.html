@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Google Maps JavaScript API Example</title>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAsc-TV1FOAHt-MVBlx_MpJxRAXRqcoa14e2-D4lY9b7aeB0G43BQTUjzNA3U0XNemnssnzumvbQf5aA"
+      type="text/javascript"></script>
+    <script type="text/javascript">
+
+    //<![CDATA[
+
+    function load() {
+      if (GBrowserIsCompatible()) {
+        var map = new GMap2(document.getElementById("map"));
+        map.addControl(new GSmallMapControl());
+        map.addControl(new GMapTypeControl());
+        GEvent.addListener(map, "moveend", function() {
+          var center = map.getCenter();
+          document.getElementById("message").innerHTML = center.toString();
+        });
+        map.setCenter(new GLatLng(51.520727,-0.737929), 25);
+          
+      }
+    }
+
+    //]]>
+    </script>
+  </head>
+  <body onload="load()" onunload="GUnload()">
+  <div id="message"></div>
+  <div id="map" style="width: 1000px; height: 1000px"></div>
+</div>
+  </body>
+</html>

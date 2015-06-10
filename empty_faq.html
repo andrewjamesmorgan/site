@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<script>
+ function OpenClose(obj) {
+   if (obj.style.display=='block') {
+     obj.style.display='none';
+   } else {
+     obj.style.display='block';
+   }
+ }
+</script>
+</head>
+
+<body>
+
+<div id="ClickMe_Head" onClick="OpenClose(ClickMe_Body)" onMouseOver="this.style.cursor='pointer';">
+ Click Me
+</div>
+<div id="ClickMe_Body" style="display:none;">
+ Blah blah blah bla<br>
+ blah blah blah bla<br>
+ Blah blah blah bla<br>
+ blah blah blah bla
+</div>
+
+</body>
+</html>
