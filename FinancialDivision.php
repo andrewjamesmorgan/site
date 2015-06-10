@@ -6,8 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Financial Division - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law</title>
-		<meta name="keywords" content="Financial division, divorce, settlement, divorce settlement, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Financial Division"/>
+		<meta name="keywords" content="Financial division, divorce, settlement, divorce settlement, matrimonial, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
+		<meta name="description" content="Handling all aspects of how assets are divided in the event of a mariiage or civil partnership ending. Allwyn Sanger Windsor & Berkshire Solicitors"/>
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

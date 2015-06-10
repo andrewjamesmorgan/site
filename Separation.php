@@ -6,8 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Separation - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law</title>
-		<meta name="keywords" content="Separation, Family Law, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Separation"/>
+		<meta name="keywords" content="Separation, Matrimonial, Family Law, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger" />
+		<meta name="description" content="Upon the breakdown of a marriage parties will inevitably wish to lead separate and apart lives. It is not  compulsory to enter into divorce proceedings. A divorce formally dissolves a marriage and the financial split of the  marriage assets can be regulated and enforced by the courts. You can continue to lead separate lives without ever formally recording what arrangements you have made relating to the financial settlement, if any. It is  advisable in many circumstances to have a record of your separation in writing to refer to over time and to avoid disputes over what was agreed and why. Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Separation"/>
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>
@@ -66,7 +66,7 @@
 							    </ol>
 							</p>
 						  	<p>
-						  		You can continue to lead separate lives without ever formally recording what  arrangements you have made relating to the financial settlement, if any.
+						  		You can continue to lead separate lives without ever formally recording what arrangements you have made relating to the financial settlement, if any.
 						  	</p>
 						  	<h3>Why have a Separation Agreement?</h3>
 						  	<p>

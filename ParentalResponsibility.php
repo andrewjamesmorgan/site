@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Parental Responsibility</title>
 		<meta name="keywords" content="Parental Responsibility, Parents, Parent, Family Law, Children, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger, Kids" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Parental Responsibility">
+		<meta name="description" content="Parental Responsibility is the legal definition which recognises parents rights, duties, powers, responsibilities and authority in relation to the child and their  property. Allwyn Sanger Windsor & Berkshire Solicitors -  Parental Responsibility">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

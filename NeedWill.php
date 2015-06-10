@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Do you need a will?</title>
 		<meta name="keywords" content="Need for a will, Wills, Last Will and Testament, Probate, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Need for a will">
+		<meta name="description" content="Understand why you need a will and arrange with us to put one together that best meeets your needs and wishes. Allwyn Sanger Windsor & Berkshire Solicitors -  Need for a will">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

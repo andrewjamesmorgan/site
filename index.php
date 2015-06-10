@@ -5,9 +5,9 @@
 <html> <!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
-		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Settlement Agreements, Prenuptuals, Wills, Divorce, Inheritance, Pensions, Employment Law, Estate Planning</title>
-		<meta name="keywords" content="Family Law, Settlement Agreements,Family Solicitor,solicitors, Windsor, Preniptuals, Wills, Divorce, Inheritance, prenup, prenuptial, Employment Law, Berkshire, Ash Sanger, Estate Planning" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Settlement Agreements, Prenuptuals, Wills, Divorce, Inheritance, Pensions, Employment Law, Estate Planning">
+		<title>Windsor solicitors for family law, settlement agreements, prenuptuals, wills, divorce, matrimonial law inheritance, pensions, employment law, estate planning - Allwyn Sanger Berkshire Solicitors</title>
+		<meta name="keywords" content="Family Law, Settlement Agreements,Family Solicitor,solicitors, Windsor, Preniptuals, Wills, Divorce, Inheritance, prenup, prenuptial, Employment Law, Matrimonial, Berkshire, Ash Sanger, Estate Planning" />
+		<meta name="description" content="Windsor solicitors for family law - specialising in settlement agreements, prenuptuals, wills, divorce, matrimonial law, inheritance, pensions, employment law, estate planning. Allwyn Sanger Windsor & Berkshire Solicitors">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

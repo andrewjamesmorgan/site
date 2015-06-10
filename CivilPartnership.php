@@ -6,8 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Civil Partnerships - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law</title>
-		<meta name="keywords" content="Civil PArtnerships, gay wedding, , Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Civil Partnerships"/>
+		<meta name="keywords" content="Civil PArtnerships, gay wedding, , Family Law, Matrimonial, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
+		<meta name="description" content="Civil Partnerships - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law"/>
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

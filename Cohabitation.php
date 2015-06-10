@@ -6,8 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Co-Habitation - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law</title>
-		<meta name="keywords" content="Cohabitation, co-habitation, living together, moving in together, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Co-Habitation"/>
+		<meta name="keywords" content="Cohabitation, co-habitation, living together, moving in together, Matrimonial, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
+		<meta name="description" content="Co-Habitation, what you need to understand to avoid later issues when setting up home with someone who is not your spouse - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law"/>
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

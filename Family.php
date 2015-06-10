@@ -6,8 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Experts in Family Law</title>
-		<meta name="keywords" content="Family Law, Family Solicitor,solicitors, Windsor, Prenuptuals, Wills, Divorce, prenup, pre nuptial, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law">
+		<meta name="keywords" content="Family Law, Family Solicitor,solicitors, Windsor, Prenuptuals, Wills, Divorce, prenup, pre nuptial, Matrimonial, Berkshire, Ash Sanger, Financial Division" />
+		<meta name="description" content="Windsor based solicitors who are focussed on all areas of family law including children, marriage, divorce and prenuptial agreements. Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

@@ -6,8 +6,9 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Prenuptial Agreements - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law</title>
-		<meta name="keywords" content="Prenuptial, pre-nuptial,  Family Law, Family Solicitor,solicitors, Windsor, wedding, marriage, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Prenuptial Agreements"/>
+		<meta name="keywords" content="Prenuptial, pre-nuptial, Matrimonial, Family Law, Family Solicitor,solicitors, Windsor, wedding, marriage, matrimonial, Berkshire, Ash Sanger" />
+		<meta name="description" content=">
+						  		Pre nuptial  Agreements are agreements made by a couple before their intended marriage. Understand what they can and cannot achieve and work with us to draw one up that fits in with your circumstances. Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Prenuptial Agreements"/>
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>
