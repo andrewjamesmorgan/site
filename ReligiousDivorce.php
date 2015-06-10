@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors - Experts in Religious Divorce Law</title>
 		<meta name="keywords" content="Religious Divorce, Muslim Divorce, Jewis Divorce, Divorce, Family Law, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Religious Divorce">
+		<meta name="description" content="A marriage which has been conducted overseas will also be recognised in the UK, provided it is recognised in accordance with the state laws of that country. However, difficulties arise where there is no marriage certificate available. In these  circumstances other evidence of the marriage such as photos, videos or  witnesses must be produced. When filing for a divorce, it would be necessary to dissolve both the religious  marriage and dissolve the civil marriage.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Religious Divorce">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

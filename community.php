@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor Family Solicitors in the Windsor and Maidenhead Community</title>
 		<meta name="keywords" content="windsor, MAidenhead, community, Berkshire, Ash Sanger, Foodshare, Food Bank" />
-		<meta name="description" content="Allwyn Sanger Windsor Family Solicitors in the Windsor and Maidenhead Community">
+		<meta name="description" content="All of us at Allwyn Sanger work and live in the local community and feel that it's important that we make a possitive contribution. This page sets out to give some examples as well as acting as a resource to promote community activities.
+		Allwyn Sanger Windsor Family Solicitors in the Windsor and Maidenhead Community">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

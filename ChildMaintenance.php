@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Family Law Solicitors -  Child Maintenance</title>
 		<meta name="keywords" content="Child Maintenance, Child Maintenance Service, Child Support, Family Law, Children, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger, Kids" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Child Maintenance">
+		<meta name="description" content="The Child Maintenance Service deal with all Child Maintenance against non residential parents (ie. Parent not living with child) unless there is prior agreement in writing for child maintenance between parents. Understand the process and what role you play in it.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Child Maintenance">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

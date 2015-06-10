@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Experts in Wills and Probate</title>
 		<meta name="keywords" content="Wills, Last Will and Testament, Probate, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Wills & Probate">
+		<meta name="description" content="A will is a legal document expressly directing what should happen to your assets and who should benefit from them on your death. It is important to have a Will no matter how big or small your estate is so that the correct people benefit, in default of which the Law will decide who will receive your net assets and tax at 40% may be payable when it could have been  avoided. Furthermore if the Will has not been drafted or executed correctly it could result in the Will being invalid.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Wills & Probate">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

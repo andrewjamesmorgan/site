@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Experts in Divorce Law</title>
 		<meta name="keywords" content="Divorce, Family Law, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Divorce Law">
+		<meta name="description" content="We have set out a brief overview of the  procedure involved relating to marriage breakdown including changes resulting from the Children and Families Act 2014 which came into effect in April 2014. Each case however is unique  and many different factors can influence the basic procedure. We at Allwyn  Sanger Solicitors will keep you informed of each step involved, explain if and  why additional steps may be required and keep you appraised of the likely time,  cost and further steps required.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Divorce Law">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

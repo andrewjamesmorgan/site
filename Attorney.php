@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors - Power of Attorney</title>
 		<meta name="keywords" content="Power of Attorney, Lasting Powers of Attorney, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Powers of Attorney" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Power of Attorney">
+		<meta name="description" content="A Lasting Power of Attorney (LPA) is an important legal document which, due to its nature, allows you (the donor) to plan ahead and set out in advance what you want to happen with your personal affairs or in relation to your health and personal welfare arrangements and who is to make these decisions on your behalf (the attorney). Discover whether a power of attorney is needed and how to get it put into place. Allwyn Sanger Windsor & Berkshire Solicitors -  Power of Attorney">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

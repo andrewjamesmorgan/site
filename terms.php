@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors - Terms & Conditions</title>
 		<meta name="keywords" content="Terms and Conditions, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Powers of Attorney" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors - Terms and Conditions">
+		<meta name="description" content="Terms and Condition. Allwyn Sanger Windsor & Berkshire Solicitors.">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

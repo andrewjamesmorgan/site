@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Inheritance Tax Planning</title>
 		<meta name="keywords" content="Inheritance tax, tax planning, Wills, Last Will and Testament, Probate, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Inheritance tax planning">
+		<meta name="description" content="The Alignment of Inheritance Tax Treatment for Trusts was set out in Budget Note 25 in the 2006 Budget. After some small amendments these major changes (not mentioned in the Chancellors speach on Budget Day) were incorporated in The Finance Act 2006. The impact of the act is that, save for a small number of exceptions, all trusts will be subject to Inheritance Tax. It is vitally important that you create Trusts within the specific limitations to avoid Tax. If the Will is written with conditions attached to the Trust they become 'Relevant Trusts' and will be subject to 40% tax on all amounts above the Inheritance Tax threshold. Under current law, the estate left by someone who dies is entitled to an amount known as the IHT nil-rate band which is chargeable to IHT at 0 per cent. Any value above the nil-rate band is charged at 40 per cent. The nil-rate band in 2007/08 was £300,000 and in 2008/09 was £312,000. The nil-rate tax band for 2009/10 was £325,000.00 and it has remained at this threshold todate (2013/14).
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Inheritance tax planning">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

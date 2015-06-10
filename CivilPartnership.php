@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Civil Partnerships - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law</title>
 		<meta name="keywords" content="Civil PArtnerships, gay wedding, , Family Law, Matrimonial, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Civil Partnerships - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law"/>
+		<meta name="description" content="The Civil  Partnership Act 2004 came into force on 5 December 2004. It gave couples of the same sex a right to register themselves as civil partners. It provides recognition of their commitment to each other and gives rights  and responsibilities in line with married couples. Allwyn Sanger can help you understand what is involved and guide you through the process.
+		Civil Partnerships - Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law"/>
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>
@@ -62,7 +63,7 @@
 						  		There have been a tremendous amount of registered civil partners since the Act came into force and much higher than the government&rsquo;s initial prediction.
 						  	</p>
 						  	<p>
-						  		More recent  high profile civil partnerships have been Elton John and Matt Lucas.
+						  		More recent high profile civil partnerships have been Elton John and Matt Lucas.
 						  	</p>
 						  	<h3>Who can register?</h3>
 						  	<p>

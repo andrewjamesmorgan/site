@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Experts in Child Law</title>
 		<meta name="keywords" content="Childrens Law, Children Act, Parental Responsibility, Overseas Children, Child Maintenance, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Experts in Childrens Law">
+		<meta name="description" content="The law is regulated by the Children Act 1989 as amended by the Children and Family Act 2014. The main principal is that the child's welfare is of paramount importance. Often other procedings related to a break down will be defered until the court is satisfied that the child's welfare is catered for.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Experts in Childrens Law">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

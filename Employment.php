@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Family Law Solicitors -  Employment Law</title>
 		<meta name="keywords" content="Employment Law, Employment, Employment solicitor, redundancy, employment contracts, settlement agreement, compromise agreement, settlement, agreement,solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Employment Law">
+		<meta name="description" content="Services offered include: drafting and reviewing contract of employment; representation in employment disputes; compromise and settlement agreements; redundancy advice and pension considerations.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Employment Law">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

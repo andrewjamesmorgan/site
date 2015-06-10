@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors - About Us. Family Law, Settlement Agreements, Prenuptuals, Wills, Divorce, Inheritance, Pensions, Employment Law, Estate Planning</title>
 		<meta name="keywords" content="Family Law, Settlement Agreements,Family Solicitor,solicitors, Windsor, Preniptuals, Wills, Divorce, Inheritance, prenup, prenuptial, Employment Law, Berkshire, Ash Sanger, Estate Planning" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Family Law, Settlement Agreements, Prenuptuals, Wills, Divorce, Inheritance, Pensions, Employment Law, Estate Planning">
+		<meta name="description" content="Discover more about the people that make up Allwyn Sanger Solicitors as well as our commitment to listening to our clients to ensure that we build up a strong relationship to understand their needs so that we can provide the service that best suits them. Allwyn Sanger -  Family Law, Settlement Agreements, Prenuptuals, Wills, Divorce, Inheritance, Pensions, Employment Law, Estate Planning">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

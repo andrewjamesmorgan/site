@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  Drafting a will</title>
 		<meta name="keywords" content="Drafting a will, writing a will, Wills, Last Will and Testament, Probate, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Need for a will">
+		<meta name="description" content="Understand what is involved in drafting a will and ensuring that it is acted upon. Allwyn Sanger Windsor & Berkshire Solicitors -  Need for a will">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

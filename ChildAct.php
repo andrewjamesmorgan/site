@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors -  The Children Act</title>
 		<meta name="keywords" content="Children Act, Family Law, Children, Family Solicitor,solicitors, Windsor, Separation, Berkshire, Ash Sanger, Kids" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Children Act">
+		<meta name="description" content="On separation or divorce both parties will naturally be concerned and have thought long and hard about the impact of the breakdown of the relationship on the children. Both will want to continue their bond and relationship with the children. Indeed this will be the case even more so now to reassure them that they are safe and loved. The welfare  and interest of the children is of paramount importance. This is of course the case for all parents but is also the first principal of the courts in all Children Act matters. 
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Children Act">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

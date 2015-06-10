@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors - Published Articles</title>
 		<meta name="keywords" content="Published Articles, Employment Law, Financial Matters, Pension, Divorce,  Inheritance tax, tax planning, Wills, Last Will and Testament, Probate, Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Financial Division" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Published employment and family law articles">
+		<meta name="description" content="Read some of the articles that Ash Sanger has had published; covering pensions, financial division and  employment law. Allwyn Sanger Windsor & Berkshire Solicitors -  Published employment and family law articles">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

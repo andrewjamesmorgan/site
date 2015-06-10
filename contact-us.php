@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Solicitors - Contact Us</title>
 		<meta name="keywords" content="Family Law, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Contact, email, phone, location, address, Windsor" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors - Contact Us">
+		<meta name="description" content="How to get in contact with us. Allwyn Sanger Windsor & Berkshire Solicitors - Contact Us">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

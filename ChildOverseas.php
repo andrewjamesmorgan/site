@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Family Law Solicitors -  Children Overseas</title>
 		<meta name="keywords" content="Children overseas, children abroad, take children abroad, Family Law, Children, Family Solicitor,solicitors, Windsor, Berkshire, Ash Sanger, Kids" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Children Overseas">
+		<meta name="description" content="Concerns relating to Children Moved Overseas. Where a parent has Residence of the children it is  possible for them to take the children abroad for up to 4 weeks at a time without the need for a court order. It is advisable however to keep the other parent informed. This avoids animosity, lack of trust between the parents and allows the absent parent to have knowledge of the childrens welfare and arrangements.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Children Overseas">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>

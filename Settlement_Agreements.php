@@ -7,7 +7,8 @@
 		<meta charset="utf-8">
 		<title>Allwyn Sanger Windsor & Berkshire Family Law Solicitors - Settlement Agreements</title>
 		<meta name="keywords" content="Employment Law, Employment, Employment solicitor, redundancy, employment contracts, settlement agreement, compromise agreement, settlement, agreement, solicitors, Windsor, Berkshire, Ash Sanger" />
-		<meta name="description" content="Allwyn Sanger Windsor & Berkshire Solicitors -  Settlement Agreements">
+		<meta name="description" content="Upon the termination of employment an Employer may offer certain terms of severance and require the employee to enter into a legally binding document known as a 'Settlement Agreement' to record the terms of settlement. The Settlement Agreement usually provides for the Employee to receive a severance payment from the Employer in return for which the Employee will agree not to pursue any claim he or she may feel they have, nor take the matter to an Employment Tribunal. In addition, the Settlement Agreement will deal with other matters, such as contractual notice periods in the Contract of Employment and provide for a 'payment in lieu' of such notice requirement.
+		Allwyn Sanger Windsor & Berkshire Solicitors -  Settlement Agreements">
 		<meta name="author" content="clusterdb.com">
 		<?php include 'head_includes.php'; ?>
 	</head>
