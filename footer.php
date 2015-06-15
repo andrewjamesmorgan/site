@@ -82,7 +82,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-7">
-					<p>© Copyright 2014 by Windsor Solicitors Limited | All Rights Reserved. Regulated by the Solicitors Regulation Authority - No. 537144 | Company Number 07218904 | Allwyn Sanger Solicitors is a trade name for Windsor Solicitors Limited.</p>
+					<p>© Copyright 2014-2015 by Windsor Solicitors Limited | All Rights Reserved. Regulated by the Solicitors Regulation Authority - No. 537144 | Company Number 07218904 | Allwyn Sanger Solicitors is a trade name for Windsor Solicitors Limited.</p>
 				</div>
 				<div class="col-md-5">
 					<nav id="sub-menu">

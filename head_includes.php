@@ -50,3 +50,33 @@
   ga('send', 'pageview');
 
 </script>
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+"@type" : "Organization",
+"name" : "Allwyn Sanger Solicitors",
+"logo" : "http://allwynsanger.com/img/sangerlogo_108.jpg",
+"url" : "http://www.allwynsanger.com/",
+"sameAs" : [
+"http://www.twitter.com/windsorsols",
+"http://www.linkedin.com/profile/view?id=78290845",
+"https://google.com/+Allwynsanger/posts"
+]
+}
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "LocalBusiness",
+	"name": "Allwyn Sanger Solicitors",
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "St Stephens House, Arthur Road",
+		"addressLocality": "Windsor",
+		"addressRegion": "Berkshire",
+		"postalCode": "SL4 1RU"
+	},
+	"telephone": "017530850915",
+}
+</script>

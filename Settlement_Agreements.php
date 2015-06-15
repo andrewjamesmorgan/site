@@ -13,6 +13,23 @@
 		<?php include 'head_includes.php'; ?>
 	</head>
 	<body>
+		<div class="hidden_meta">
+			<div id="a" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemref="b">
+			  <a href="http://www.allwynsanger.com" itemprop="url">
+			    <span itemprop="title">Home</span>
+			  </a> ›
+			</div>
+			<div id="b" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child" itemref="c">
+			  <a href="http://www.allwynsanger.com/Employment.php" itemprop="url">
+			    <span itemprop="title">Employment Law</span>
+			  </a> ›
+			</div>
+			<div id="c" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child">
+			  <a href="http://www.allwynsanger.com/Settlement_Agreements.php" itemprop="url">
+			    <span itemprop="title">Compromise & Settlement Agreements</span>
+			  </a>
+			</div>
+		</div>
 		<div class="body">
 			<?php include 'main_menu.php'; ?> 
 			<div role="main" class="main">

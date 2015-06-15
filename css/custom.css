@@ -114,3 +114,8 @@ img.tail_img {
  	vertical-align: middle;
  	text-align: center;
  }
+
+ div.hidden_meta {
+ 	visibility: hidden;
+ 	height: 0px;
+ }

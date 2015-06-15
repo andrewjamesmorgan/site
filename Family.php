@@ -12,8 +12,19 @@
 		<?php include 'head_includes.php'; ?>
 	</head>
 	<body>
-
 		<div class="body">
+			<div class="hidden_meta">
+				<div id="a" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemref="b">
+				  <a href="http://www.allwynsanger.com" itemprop="url">
+				    <span itemprop="title">Home</span>
+				  </a> ›
+				</div>
+				<div id="b" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child">
+				  <a href="http://www.allwynsanger.com/Family.php" itemprop="url">
+				    <span itemprop="title">Family</span>
+				  </a> 
+				</div>
+			</div>
 			<?php include 'main_menu.php'; ?> 
 			<div role="main" class="main">
 				<div id="content" class="content full">
