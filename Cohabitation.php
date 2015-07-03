@@ -80,7 +80,7 @@
 							  	  <li>If you have a property in one person&rsquo;s name or a greater share in one person&rsquo;s name, it will remain  theirs. If then that person unexpectedly predeceases you without making a Will with a provision for you as a partner,  you, as the surviving partner, may be rendered homeless or have to sell or raise a larger mortgage to release the deceased&rsquo;s partner&rsquo;s share to his or her estate.</li>
 							  	  <li>In these circumstances, claims by a surviving partner can be made under the Inheritance (Provision for Family and  Dependants) Act, but inevitably may cause delay, distress and the expense of litigation or negotiation.</li>
 							    </ol>
-							<p>
+							</p>
 						  	<h3>Living together agreements</h3>
 						  	<p>
 						  		It is possible to record your financial intentions resulting from living together  by entering into a Co-habitation Agreement.
@@ -102,11 +102,12 @@
 								</div>
 							</div>
 						</div>
+					</div>
 					<?php include 'tail.php'; ?>
 				</div>
+				<?php include 'footer.php'; ?>
 			</div>
-			<?php include 'footer.php'; ?>
+			<?php include 'libs.php'; ?>
 		</div>
-		<?php include 'libs.php'; ?>
 	</body>
 </html>

@@ -87,11 +87,12 @@
 								</div>
 							</div>
 						</div>
+					</div>
 					<?php include 'tail.php'; ?>
 				</div>
+				<?php include 'footer.php'; ?>
 			</div>
-			<?php include 'footer.php'; ?>
+			<?php include 'libs.php'; ?>
 		</div>
-		<?php include 'libs.php'; ?>
 	</body>
 </html>

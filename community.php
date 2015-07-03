@@ -92,7 +92,7 @@
 					<div class="container">
 						<div class="row left">
 							<div class="col-md-12">
-							    <h1>Allwyn Sanger - Active in the Community</h2>
+							    <h1>Allwyn Sanger - Active in the Community</h1>
 							    <p>
 							    	All of us at Allwyn Sanger work and live in the local community and feel that it's important that we make a possitive contribution. This page sets out to give some examples as well as acting as a resource to promote community activities.
 							    </p>
@@ -164,13 +164,12 @@
 								</div>
 							</div>
 						</div>
-
-
+					</div>
 					<?php include 'tail.php'; ?>
 				</div>
+				<?php include 'footer.php'; ?>
 			</div>
-			<?php include 'footer.php'; ?>
+			<?php include 'libs.php'; ?>
 		</div>
-		<?php include 'libs.php'; ?>
 	</body>
 </html>

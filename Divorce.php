@@ -64,7 +64,6 @@
 					</div>
 
 					<div class="container">
-
 						<div class="row left">
 							<div class="col-md-12">
 						  	<h2>Divorce </h2>
@@ -76,8 +75,19 @@
 							  	</p>
 							  	<h3>Divorce Petition</h3>
 							  	<p>
-							  		A Divorce Petition is the start of  the formal process for dissolving a marriage, this is now issued, under the 2014 legislation, at the Family Courts.
+							  		A Divorce Petition is the start of  the formal process for dissolving a marriage. This is now issued under the 2014 legislation at the Family Courts.
 							  	</p>
+							  	<h3>Changes to the Divorce Process</h3>
+							  	<p>
+							  		11 divorce centres have been created within England and Wales. Legal advisers are now empowered to consider decree nisi applications in uncontested divorces issued at designated Divorce Centres.
+							  	</p>
+							  	<p>
+							  		Some Divorce Centres are already fully operational. The transfer of cases is being phased into the centres. Allwyn Sanger is based within the London and South East Divorce Centre. From Monday 29th June 2015 all new divorce and financial remedy applications are required to be sent to this Centre based in Bury St Edmunds in Suffolk. 
+							  	</p>
+							  	<p>
+							  		The Divorce Centre is a point of entry. If a hearing is required this can be listed at a local hearing centre. Parties to a case are able to indicate where the hearing should take place – often locally or central to where the parties reside.
+							  	</p>
+							  	<h3>Petition</h3>
 							  	<p>
 							  		The Petitioner &ndash; is the person who  issues the Petition.<br />
 							  	  	The Respondent &ndash; Is the other spouse  against who the Petition is issued. 
@@ -106,21 +116,21 @@
 							  	</p>
 							  	<h3>Acknowledgement of Service</h3>
 							  	<p>
-							  		This document is sent to the Respondent to acknowledges receipt of the Petition and the Arrangement for the  Children, if applicable. The Acknowledgement of Service is in question and  answer format. If you wish to defend a petition you would record your intentions to do so on this form and/or Cross Petition if required.
+							  		This document is sent to the Respondent to acknowledge receipt of the Petition. The Acknowledgement of Service is in question and  answer format. If you wish to defend a petition you would record your intentions to do so on this form and/or Cross Petition if required.
 							  	</p>
 							  	<p>
-							  		Usually the Respondent has 7 days in which to Acknowledge the petition.
+							  		Usually the Respondent has 7 days in which to acknowledge the petition.
 							  	</p>
-							  	<h3>Application for Decree  Nisi &amp; Statement in Support</h3>
+							  	<h3>Application for Decree  Nisi & Statement in Support</h3>
 							  	<p>
-									Once the Acknowledgement is received the Petitioner can proceed with his or her application. The Petitioner must file an application for Decree Nisi. The application must be accompanied by a Statement of Truth to confirm that the details given in the Petition are correct.
+									Once the Acknowledgement is received the Petitioner can proceed with his or her application. The Petitioner must file an application for Decree Nisi. The application must be accompanied by a Statement in Support of Divorce to confirm that the details given in the Petition are correct.
 								</p>
 							  	<p>
 							  		There is no court fee for the Decree nisi.
 							  	</p>
 							  	<h3>Pronouncement of Decree Nisi</h3>
 							  	<p>
-									The court sets a date for the  hearing of the Nisi but normally it is not necessary to attend this hearing. A certificate stating that the Judge believes that you are entitled to a decree of divorce pronounces this first stage of divorce complete.
+									The court sets a date for the pronouncement of the Nisi. A certificate stating that the Judge believes that you are entitled to a decree of divorce and pronounces this first stage of divorce complete.
 								</p>
 							  	<p>
 							  		At this stage you are still legally married to the Respondent and will remain each others next of kin.
@@ -130,7 +140,7 @@
 							  	</p>
 							  	<h3>Application to the Court for Decree Absolute</h3>
 							  	<p>
-							  	 	You must wait a minimum period of 6 weeks of receiving the Decree Nisi to apply for a Decree Absolute.
+							  	 	You must wait a minimum period of 6 weeks from receiving the Decree Nisi to apply for a Decree Absolute.
 							  	</p>
 							  	<p>
 							  		The application for Decree Absolute is normally delayed until distribution of the marriage assets are concluded.
@@ -157,11 +167,12 @@
 								</div>
 							</div>
 						</div>
+					</div>
 					<?php include 'tail.php'; ?>
 				</div>
+				<?php include 'footer.php'; ?>
 			</div>
-			<?php include 'footer.php'; ?>
+			<?php include 'libs.php'; ?>
 		</div>
-		<?php include 'libs.php'; ?>
 	</body>
 </html>

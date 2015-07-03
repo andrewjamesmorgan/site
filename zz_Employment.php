@@ -26,7 +26,7 @@
 			</div>
 		</div>
 		<div class="body">
-			<?php include 'main_menu.php'; ?> 
+			<?php include 'zz_main_menu.php'; ?> 
 			<div role="main" class="main">
 				<div id="content" class="content full">
 					<div class="slider-container">
@@ -59,34 +59,41 @@
 					<div class="container">
 						<div class="row left">
 							<div class="col-md-12">
-								<h2>Employment Law </h2>
+								<h2>Employment Services for Employees</h2>
+								<p>							
+									We understand that everyone can experience employment related difficulties at work at some point in their career. As an individual the situation can be daunting and stressful to deal with. We can assist you in identifying whether any of your employment rights have been infringed and how best to resolve the situation.
+								</p>
 								<p>
-									Services offered include:
+									We will take the time to understand your situation so we can deliver the best possible advice to you. Where appropriate we will assist with making a claim on your behalf.
+								</p>
+								<p>
+									As an individual it can be difficult stand up to your employer if you face a work related issues. We work with you to identify your employments rights and set out a strategy to seek a resolution. This may include approaching your employer on your behalf or even submitting a claim to the Employment Tribunal to enforce your rights.
+								</p>
+								<h3>Advice & Issues</h3>
+								<p>
+									We regularly assist individuals on:
 									<ul>
-										<li>Drafting and reviewing Contract of Employment</li>
-										<li>Representation in Employment Disputes</li>
-										<li><a href="Settlement_Agreements.php">Compromise and Settlement Agreements</a></li>
-										<li>Redundancy advice</li>
-										<li>Pension Considerations</li>
+										<li>Bringing a Grievance</li>
+										<li>Responding to Disciplinary charges</li>
+										<li>Bring Discrimination claims</li>
+										<li>Claims for Unfair Dismissal and Constructive Dismissal</li>
+										<li>Breach of Contract claims</li>
+										<li>Unlawful deductions and other Pay related claims</li>
+										<li>Maternity, paternity, flexible working and other family related rights</li>
+										<li>Advising on <a href="Settlement_Agreements.php" title="Settlment Agreements" name="Settlment Agreements" alt="Settlment Agreements">Settlement Agreements</a></li>
 									</ul>
 								</p>
 								<p>
-									There have been several attempts to codify Employment Law. This has lead to a large number of Employment Acts which attempt to incorporate previous legislation and more  recently further amendments have been made following the Civil Partnership Act, EU regulations etc.
+									Recent changes have meant that it is now even harder to bring a claim in the Employment Tribunal. Not following the correct procedures and within the correct time scales could result in you being prevented from pursuing a claim.
 								</p>
 								<p>
-									We understand how daunting this area of law may be  for both Employer and Employee. Many large organisations employ or subcontract Human Resources departments to deal with the complex area.
+									We will guide you throughout the whole process and will seek the best outcome for you.
 								</p>
 								<p>
-									Clearly all employment is based on confidence between Employer and Employee. Employees are often the largest resource of an organisation. It is therefore often worth spending the time and expense of getting Employment Packages recorded correctly in Contracts of Employment at  the start of the employment.
+									As part of our service we will evaluated your realistic prospects of success and give you an estimate of what the likely value of any claim may be worth.
 								</p>
 								<p>
-									Contracts of Employment form part of a bigger picture of managing a business and therefore consideration of a company&rsquo;s culture,  policies and office manuals are essential. Allwyn Sanger Solicitors has an MBA qualified solicitor allowing us to understand the commercial impact of the  required employment documentation on reward strategies, budgets, Managing People and Information.
-								</p>
-								<p>
-									We are able to advise on <strong><a href="Settlement_Agreements.php" title="Settlement Agreements, Compromise Agreements" name="Settlement Agreements, Compromise Agreements" alt="Settlement Agreements, Compromise Agreements">settlement Agreements</a></strong> for Employers or Employees.</a> We provide full advice on potential claims for either  Employer or Employee and will deal with Employment Tribunal claims stage by stage. We are able to assist in dispute resolution by negotiation and where it is not possible to resolve issues by mutual agreement claims or defences can be submitted to Employment Tribunals online on your behalf.
-								</p>
-								<p>
-									The vast amount of different employment claims that can be made arise as a result of the various rights and obligations created by the relationship of Employers and Employees.
+									We will also set out clearly the likely costs you will have in pursuing a claim and what funding arrangements are available to you.
 								</p>
 							  	<div class="panel panel-default">
 									<div class="panel-heading">

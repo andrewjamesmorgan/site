@@ -1,30 +1,32 @@
 <div class="container">
 	<div class="row">
 		<hr class="medium" />
-		<div class="col-md-7" id="magna_carta">
-			<h2>Magna Carta's 800 Year Anniversary</h2>
-			<h4>What is it?</h4>
+		<div class="col-md-7" id="windsor_fringe_festival">
+			<h2>Windsor Fringe</h2>
 			<p>
-				The Magna Carta is the foundation of our democracy and our freedom – this is a very big claim to make for a document which was sealed on 15 June 1215. A translation (from Latin) of the original charter can be <a href="http://www.constitution.org/eng/magnacar.pdf" title="English translation of Magna Carta" target="_blank">read here</a>.
+				Allwyn Sanger is proud to be sponsoring The Windsor Fringe Festival 2015. The event takes place <strong>18th September - 4th October 2015</strong>.
 			</p>
-			<h4>Why was it created?</h4>
 			<p>
-				In reality Magna Carta was a peace treaty between King John and his barons who were concerned about the King's cruelty, his taxation policies and his infringements of their liberties. Essentially the document provided for certain limitations on the powers of the reigning monarch. King John had agreed to their terms; rights that were meant to be restricted to free men are now claimed by all. ‘No man is to be arrested, or imprisoned or outlawed, or exiled or in any way destroyed... save by the lawful judgement’ and ‘To no one will we deny or delay, right or justice’.
+				The Windsor Fringe was established in 1969, making it the oldest Fringe Festival in England and is run by a totally voluntary committee. The Windsor Fringe annually stages an eclectic programme of the arts for two weeks in September. The programme offers an eclectic mix of the arts and entertainment: music of all kinds, drama, visual arts (including photography and sculpture), film, poetry, informative walks and gastronomy - all delivered at local venues in Windsor. 
 			</p>
 		</div>
 		<div class="col-md-5">
-			<img src="images/magnacarta_small.jpg" width="380px" class="tail_img">
+			<img src="images/Windsor_Fringe.png" width="380px" class="tail_img">
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-12" id="magna_carta">
-			<h4>Why is it important?</h4>
+		<div class="col-md-12">
 			<p>
-				While the original version of the Magna Carta wasn't exactly followed to the letter, it was a living document and was revised several times over the years. The charter has had a huge influence in establishing democracies around the world as well as influencing the laws of the UK. The Magna Carta is venerated by The United States as providing the founding principles of its consultation. Commonwealth countries looked to Magna Carta when they became independent.
+				Included in the festival is their highly regarded <em>International Windsor Fringe Kenneth Branagh Award for New Drama Writing</em> which, although International, has great interest locally and over the years they've received over 2,300 scripts from 33 countries, with judges including Fay Weldon CBE, Hilary Mantel CBE and Joanne Harris MBE. 
 			</p>
-			<h4>Celebrations</h4>
 			<p>
-				There are <a href="http://magnacarta800th.com/magna-carta-today/2015-aspirations/" title="Magna Carta 880th anniversary celebrations" target="_blank">many activities planned this year to celebrate the anniversary</a> and you can find a lot of fascinating information on the history and influence of the Magna Carta on the <a href="http://magnacarta800th.com/" title="official Magna Carta 800th anniversary site" target="_blank">official Magna Carta 800th anniversary site</a>.
+				Interest in the fringe is growing quite rapidly and it has over a 1,300 twitter followers so far.
+			</p>
+			<p>
+				Allwyn Sanger is a keen supporter of the arts in Windsor and we hope that this sponsorship opportunity enriches the event and the experience of visitors even more.
+			</p>
+			<p>
+				You can follow the festival at the <a href="http://www.windsorfringe.co.uk" title="Windsor Fringe site" target="_blank">Windsor Fringe site</a> or on <a href="http://www.twitter.com/windsorfringeUK" title="Windsor Fringe on Twitter" target="_blank">Twitter</a> or <a href="http://www.facebook.com/windsorfringe" title="Windsor Fringe on Facebook" target="_blank">Facebook</a>.
 			</p>
 		</div>
 	</div>

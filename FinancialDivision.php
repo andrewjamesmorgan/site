@@ -65,7 +65,7 @@
 						<div class="row left">
 						  	<h2>Financial Division</h2>
 						  	<p>
-						  		This application is made to distribute the marriage assets, whatever and  wherever they may be and is lodged with the Family Courts. They are categorised as:
+						  		This application is made to distribute the marriage assets, whatever and  wherever they may be and is lodged with a Family Court Centre. They are categorised as:
 							  	<ul>
 							  	  <li>Maintenance for you and/or the  Children</li>
 							  	  <li>Lump Sum&ndash; a capital payment</li>
@@ -75,20 +75,20 @@
 							</p>
 						  	<h3>Application</h3>
 						  	<p>
-						  		This is referred to as Ancillary Relief because it is made ancillary to the main divorce petition and the applicant asks the court to grant specific financial relief.
+						  		This is referred to as Ancillary Relief because it is made ancillary to the main divorce petition and the Applicant asks the court to grant specific financial relief.
 						  	</p>
 						  	<p>
 						  		Either party, Petitioner or Respondent, may serve a Notice of Application for Ancillary Relief by completing a &lsquo;Form A&rsquo;.
 						  	</p>
 						  	<p>
-						  		The application can not be made until after the Petition for divorce has  been filed.
+						  		The application cannot be made until after the Petition for divorce has been filed.
 						  	</p>
 						  	<h3>Attempting  Settlements</h3>
 						  	<p>
 						  		Attempts to settle matters can be made by either party in an effort to resolve matters outside of Court at any time.  This can be done between the parties direct, through formal mediation and/or with the assistance of solicitors. This is difficult to do however until the assets of both parties are fully disclosed. The proposals to settle are made between parties on a "without prejudice" basis. If agreement is achieved, a Consent Order is prepared recording the terms of the settlement. It is signed by both parties and a brief financial details form is completed (Form D81) and these documents are lodged at court to be sealed and any pending Court Hearings cancelled.
 						  	</p>
 						  	<p>
-						  		This attempt to settle can also be made at any time within the proceedings and indeed even before proceedings have even started.
+						  		This attempt to settle can also be made at any time within the proceedings and indeed before proceedings have even started.
 						  	</p>
 						  	<p>
 						  		If, for whatever reason, a settlement cannot be reached early, then the following financial procedure may be followed:
@@ -113,8 +113,8 @@
 						  	<p>
 						  		The  steps directed by the court to be completed before the First Appointment are:
 							  	<ul>
-							  	  <li><strong>Financial Statements</strong><br />Both parties must complete a Financial Statement known as the Form E. This must detail all  assets, liabilities, income and state the party&rsquo;s capital needs. The form must exhibit certain financial documents to corroborate the statement and it must be sworn. The form must then  be sent to the other party by way of simultaneous exchanged by a set date as directed by the courts.<br /></li>
-							  	  <li><strong>Questionnaires</strong><br />If either party wishes to raise questions or require further detail about the other party&rsquo;s Form E  they may prepare a Questionnaire detailing what, if any, further disclosure is required and serve this on the opponent.<br></li>
+							  	  <li><strong>Financial Statements</strong><br />Both parties must complete a Financial Statement known as the Form E. This must detail all  assets, liabilities, income and state the party&rsquo;s capital needs. The form must exhibit certain financial documents to corroborate the statement and it must be signed. The form must then  be sent to the other party by way of simultaneous exchanged by a set date as directed by the courts.<br /></li>
+							  	  <li><strong>Questionnaires</strong><br />If either party wishes to raise questions or require further detail about the other party&rsquo;s Form E  they may prepare a Questionnaire detailing what, if any, further disclosure is required and serve this on the other party.<br></li>
 							  	  <li><strong>Statement  of Issues</strong><br />This is a short document prepared by each party summarising the issues that they believe remain unresolved in the proceedings.<br></li>
 							  	  <li><strong>Chronology</strong><br />Again each party prepares a document recording in chronological order what they consider are the events that have taken place to date.<br /></li>
 							  	  <li><strong>Form  G</strong><br />This form simply gives the court an indication of whether the parties believe the First Appointment can be used as a  hearing to attempt a negotiated settlement with the help of the judge. This  will be the case where both parties are looking for an early settlement and/or are satisfied with the financial disclosure made by the other party.</li>
@@ -122,7 +122,7 @@
 							</p>
 						  	<h3>First Appointment Hearing</h3>
 						  	<p>
-						  		If this hearing can not be used as a Financial Dispute Resolution hearing then the Court will consider the papers file in accordance with the previous directions and further direct the issues to be dealt with prior to the next hearing within  a given timetable.
+						  		If this hearing cannot be used as a Financial Dispute Resolution hearing then the Court will consider the papers filed in accordance with the previous directions and give further directions on the issues to be dealt with prior to the next hearing within  a given timetable.
 						  	</p>
 						  	<h3>Financial Dispute Resolution hearing</h3>
 							<p>
@@ -137,15 +137,15 @@
 						  	<p>Many  matters are settled either before or at this hearing.</p>
 						  	<h3>Open proposals</h3>
 							<p>
-								Just before the Final Hearing both parties are required to file with the court what they proposal the settlement should be. This time it is not &lsquo;without prejudice&rsquo; but open for the judge to see. Again this is in an effort to encourage a settlement to avoid the expensive costs of a Final Hearing and the risks of a Costs Order being against a party that may have unreasonable rejected sound proposals.
+								Just before the Final Hearing both parties are required to file with the court what they propose the settlement should be. This time it is not &lsquo;without prejudice&rsquo; but open for the judge to see. Again this is in an effort to encourage a settlement to avoid the expensive costs of a Final Hearing and the risks of a Costs Order being made against a party that may have unreasonably rejected sound proposals.
 							</p>
 						  	<h3>Final Hearing (Trial)</h3>
 						 	<p>
-							 	The parties are required to prepare trial bundles with all the relevant documentation and file this in court. This bundle is then referred to throughout the hearing. Usually both parties are represented by a barrister and both parties are required to give their evidence in person to the court. The Court will make an Judgement stating how the marriage assets are to be divided.
+							 	The parties are required to prepare trial bundles with all the relevant documentation and file this with the court. This bundle is then referred to throughout the hearing. Usually both parties are represented by a barrister and both parties are required to give their evidence in person to the court. The Court will make a Judgement stating how the marriage assets are to be divided.
 							</p>
 						  	<h3>Implementation</h3>
 						  	<p>
-						  		Once the order has been made the assets can be distributed in accordance with it. Where a party fails or delays acting on the order it can not be enforced by the court until and unless the Decree Absolute of Divorce has been pronounced.
+						  		Once the order has been made the assets can be distributed in accordance with it. Where a party fails or delays acting on the order it cannot be enforced by the court until and unless the Decree Absolute of Divorce has been pronounced.
 						  	</p>
 						  	<h3>Variations and Appeals</h3>
 						  	<p>
@@ -178,11 +178,12 @@
 								</div>
 							</div>
 						</div>
+					</div>
 					<?php include 'tail.php'; ?>
 				</div>
+				<?php include 'footer.php'; ?>
 			</div>
-			<?php include 'footer.php'; ?>
+			<?php include 'libs.php'; ?>
 		</div>
-		<?php include 'libs.php'; ?>
 	</body>
 </html>

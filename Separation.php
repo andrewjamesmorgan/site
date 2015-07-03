@@ -77,7 +77,7 @@
 						  	<h3>Some of the reasons you may chose to separate without divorce are:</h3>
 						  	<p>
 							  	<ol>
-							  	  <li>Psychological or emotional reasons/li>
+							  	  <li>Psychological or emotional reasons</li>
 							  	  <li>religious reasons or</li>
 							  	  <li>to remain separated for two years  and issue divorce by consent at the end of this period &ndash; a &ldquo;no fault&rdquo; <a href="Divorce.php" title="Divorce Law" name="Divorce Law" alt="Divorce Law">divorce</a></li>
 							    </ol>
@@ -131,11 +131,12 @@
 								</h4>
 							</div>
 						</div>
+					</div>
 					<?php include 'tail.php'; ?>
 				</div>
+				<?php include 'footer.php'; ?>
 			</div>
-			<?php include 'footer.php'; ?>
+			<?php include 'libs.php'; ?>
 		</div>
-		<?php include 'libs.php'; ?>
 	</body>
 </html>
